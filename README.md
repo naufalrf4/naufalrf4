@@ -4,11 +4,12 @@ name is Naufal Rizqullah F
 ==========================================================================================================================================
 Web Developer ------------- A second year student majoring Computer Engineering
 Technology at IPB University. Proficient in both computer hardware and software.
-Love to learn new things!! 💡💡 * 🌍  I'm based in Depok, West Java * 🖥️  See my
-portfolio at [On Progress](http://naufalrf.tech) * ✉️  You can contact me at
-[naufalrf4@gmail.com](mailto:naufalrf4@gmail.com) * 🧠  I'm learning React,
-Typescript, Python, Machine Learning * 🤝  I'm open to collaborating on AI or
-any Web Projects * ⚡  I like her :D### Skills
+Love to learn new things!! 💡💡 _ 🌍  I'm based in Depok, West Java _ 🖥️  See my
+portfolio at [On Progress](http://naufalrf.tech) _ ✉️  You can contact me at
+[naufalrf4@gmail.com](mailto:naufalrf4@gmail.com) _ 🧠  I'm learning React,
+Typescript, Python, Machine Learning _ 🤝  I'm open to collaborating on AI or
+any Web Projects _ ⚡  I like her :D### Skills
+
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
     ><img
@@ -207,11 +208,13 @@ Socials
     </picture>
   </a>
 
-  <a
-    href="http://www.instagram.com/naufalrf__"
-    target="_blank"
-    rel="noreferrer"
-  >
+<a
+href="http://www.instagram.com/naufalrf__"
+target="\_blank"
+rel="noreferrer"
+
+>
+
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source
@@ -226,9 +229,10 @@ Socials
         height="32"
       />
     </picture>
+
   </a>
 
-  <a
+<a
     href="https://www.linkedin.com/in/naufalrf"
     target="_blank"
     rel="noreferrer"
@@ -238,17 +242,19 @@ Socials
         srcset="
           https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
         " />
-      <source
+
+<source
         media="(prefers-color-scheme: light)"
         srcset="
           https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
         " />
-      <img
+<img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
         width="32"
         height="32"
     /></picture>
-  </a>
+</a>
+
 </p>
 Badges <b>My GitHub Stats</b
 ><a href="http://www.github.com/naufalrf4"
