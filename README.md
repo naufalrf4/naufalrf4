@@ -9,7 +9,7 @@ A second year student majoring Computer Engineering Technology at IPB University
 * 🌍  I'm based in Depok, West Java
 * 🖥️  See my portfolio at [On Progress](http://naufalrf.tech)
 * ✉️  You can contact me at [naufalrf4@gmail.com](mailto:naufalrf4@gmail.com)
-* 🧠  I'm learning React, Typescript, Python, Machine Learning
+* 🧠  I'm learning React, Typescript, Python, and Machine Learning
 * 🤝  I'm open to collaborating on Designing, A.I or any Web Dev Projects
 * ⚡  I like her :D
 
