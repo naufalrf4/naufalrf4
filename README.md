@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-A second year student majoring Computer Engineering Technology at IPB University. Proficient in both computer hardware and software. Love to learn new things!! 💡💡
+A thurd year student majoring Computer Engineering Technology at IPB University. Proficient in both computer hardware and software. Love to learn new things!! 💡💡
 
 * 🌍  I'm based in Depok, West Java
 * 🖥️  See my portfolio at [Here](http://naufalrf.tech)
