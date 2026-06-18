@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Naufal Rizqullah Firdaus" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1530"/>
+      <stop offset="0.55" stop-color="#142253"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#7DA8FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="980" cy="60" r="240" fill="url(#glow)">
+      <animate attributeName="cy" values="60;100;60" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="270" r="180" fill="url(#glow)" opacity="0.7">
+      <animate attributeName="cx" values="160;220;160" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <g opacity="0.10" stroke="#7DA8FF" stroke-width="1">
+      <line x1="0" y1="78" x2="1200" y2="78"/>
+      <line x1="0" y1="222" x2="1200" y2="222"/>
+    </g>
+
+    <g transform="translate(72,96)">
+      <text font-size="18" letter-spacing="7" fill="#7DA8FF" font-weight="600">COMPUTER ENGINEERING · IPB UNIVERSITY</text>
+      <text y="74" font-size="64" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Naufal Rizqullah Firdaus</text>
+      <text y="120" font-size="22" fill="#C7D3F0" font-weight="500">Web Developer
+        <tspan fill="#7DA8FF" font-weight="700"> · </tspan>IoT Engineer<tspan fill="#7DA8FF" font-weight="700"> · </tspan>AI &amp; Automation</text>
+    </g>
+
+    <g transform="translate(1010,108)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.3s" fill="freeze"/>
+      <text font-family="'Courier New', monospace" font-size="20" fill="#7DA8FF" font-weight="700">
+        <tspan x="0" dy="0">&lt;/&gt;</tspan>
+        <animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <g transform="translate(72,250)">
+      <circle cx="6" cy="-5" r="5" fill="#41E0C6">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="22" y="0" font-size="15" fill="#8FA3CC" font-weight="500">Designing systems from real requirements to reliable, scalable solutions</text>
+    </g>
+  </g>
+</svg>
