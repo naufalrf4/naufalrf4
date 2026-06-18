@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://naufalrf.net">
-  <img src="https://cdn.jsdelivr.net/gh/naufalrf4/naufalrf4@main/assets/header.svg" alt="Naufal Rizqullah Firdaus" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/naufalrf4/naufalrf4@main/assets/header.svg?v=4" alt="Naufal Rizqullah Firdaus" width="100%" />
 </a>
 
 <p>

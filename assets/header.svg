@@ -70,12 +70,5 @@
         <animate attributeName="opacity" values="1;0.45;1" dur="2.4s" repeatCount="indefinite"/>
       </text>
     </g>
-
-    <g transform="translate(72,272)">
-      <circle cx="6" cy="-5" r="5" fill="#F97316">
-        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="22" y="0" font-size="15" fill="#78716C" font-weight="500">Designing systems from real requirements to reliable, scalable solutions</text>
-    </g>
   </g>
 </svg>
