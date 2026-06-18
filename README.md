@@ -94,16 +94,16 @@ Open to    : Full-time roles, freelance work, and collaboration
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naufalrf4&show_icons=true&count_private=true&hide_border=true&title_color=EA580C&icon_color=F97316&text_color=57534E&bg_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrf4&layout=compact&langs_count=8&hide_border=true&title_color=EA580C&text_color=57534E&bg_color=ffffff" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naufalrf4&show_icons=true&count_private=true&hide_border=true&title_color=FB923C&icon_color=F97316&text_color=E7E5E4&bg_color=1C1917" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrf4&layout=compact&langs_count=8&hide_border=true&title_color=FB923C&text_color=E7E5E4&bg_color=1C1917" alt="Top languages" />
 
 <br/>
 
+<!-- Streak temporarily hidden due to slow render on the upstream service.
 <img src="https://streak-stats.demolab.com?user=naufalrf4&hide_border=true&background=ffffff&ring=EA580C&fire=F97316&currStreakLabel=EA580C&sideLabels=57534E&dates=A8A29E&currStreakNum=1C1917&sideNums=1C1917" alt="GitHub streak" />
+-->
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalrf4&bg_color=ffffff&color=1C1917&line=EA580C&point=F97316&area_color=FFEDD5&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalrf4&bg_color=1C1917&color=FB923C&line=F97316&point=FFFFFF&area_color=EA580C&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="98%" />
 
 </div>
 
