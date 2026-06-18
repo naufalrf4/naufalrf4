@@ -13,9 +13,9 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=naufalrf4&style=flat-square&color=1E3A8A&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=naufalrf4&style=flat-square&color=EA580C&label=Profile+Views" alt="Profile views" />
   <br/>
-  <a href="https://naufalrf.net"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=620&lines=Web+Developer+%C2%B7+IoT+Engineer+%C2%B7+AI+Builder;Designing+systems+that+are+reliable+and+scalable;From+real+requirements+to+working+solutions" alt="Typing SVG" /></a>
+  <a href="https://naufalrf.net"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=EA580C&center=true&vCenter=true&width=620&lines=Web+Developer+%C2%B7+IoT+Engineer+%C2%B7+AI+Builder;Designing+systems+that+are+reliable+and+scalable;From+real+requirements+to+working+solutions" alt="Typing SVG" /></a>
 </p>
 
 </div>
@@ -94,12 +94,16 @@ Open to    : Full-time roles, freelance work, and collaboration
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naufalrf4&show_icons=true&count_private=true&hide_border=true&title_color=1E3A8A&icon_color=3B82F6&text_color=45506B&bg_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrf4&layout=compact&langs_count=8&hide_border=true&title_color=1E3A8A&text_color=45506B&bg_color=ffffff" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naufalrf4&show_icons=true&count_private=true&hide_border=true&title_color=EA580C&icon_color=F97316&text_color=57534E&bg_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalrf4&layout=compact&langs_count=8&hide_border=true&title_color=EA580C&text_color=57534E&bg_color=ffffff" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=naufalrf4&hide_border=true&background=ffffff&ring=1E3A8A&fire=3B82F6&currStreakLabel=1E3A8A&sideLabels=45506B&dates=808AA1&currStreakNum=131A2B&sideNums=131A2B" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=naufalrf4&hide_border=true&background=ffffff&ring=EA580C&fire=F97316&currStreakLabel=EA580C&sideLabels=57534E&dates=A8A29E&currStreakNum=1C1917&sideNums=1C1917" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalrf4&bg_color=ffffff&color=1C1917&line=EA580C&point=F97316&area_color=FFEDD5&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="98%" />
 
 </div>
 
