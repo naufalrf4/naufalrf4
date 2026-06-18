@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://naufalrf.net">
-  <img src="https://raw.githubusercontent.com/naufalrf4/naufalrf4/main/assets/header.svg" alt="Naufal Rizqullah Firdaus" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/naufalrf4/naufalrf4@main/assets/header.svg" alt="Naufal Rizqullah Firdaus" width="100%" />
 </a>
 
 <p>
@@ -12,13 +12,11 @@
   <a href="https://www.instagram.com/naufalrf__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=naufalrf4&style=flat-square&color=1E3A8A&label=Profile+Views" alt="Profile views" />
-
-<br/><br/>
-
-<a href="https://naufalrf.net">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=620&lines=Web+Developer+%C2%B7+IoT+Engineer+%C2%B7+AI+Builder;Designing+systems+that+are+reliable+and+scalable;From+real+requirements+to+working+solutions" alt="Typing SVG" />
-</a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=naufalrf4&style=flat-square&color=1E3A8A&label=Profile+Views" alt="Profile views" />
+  <br/>
+  <a href="https://naufalrf.net"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=620&lines=Web+Developer+%C2%B7+IoT+Engineer+%C2%B7+AI+Builder;Designing+systems+that+are+reliable+and+scalable;From+real+requirements+to+working+solutions" alt="Typing SVG" /></a>
+</p>
 
 </div>
 
@@ -101,7 +99,7 @@ Open to    : Full-time roles, freelance work, and collaboration
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalrf4&hide_border=true&background=ffffff&ring=1E3A8A&fire=3B82F6&currStreakLabel=1E3A8A&sideLabels=45506B&dates=808AA1&currStreakNum=131A2B&sideNums=131A2B" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=naufalrf4&hide_border=true&background=ffffff&ring=1E3A8A&fire=3B82F6&currStreakLabel=1E3A8A&sideLabels=45506B&dates=808AA1&currStreakNum=131A2B&sideNums=131A2B" alt="GitHub streak" />
 
 </div>
 
